@@ -1,0 +1,36 @@
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ }
+ body{
+ 	background: url(images/背景.jpg);
+ }
+ .box{
+ 	width: 800px;
+ 	height: 360px;
+ 	margin: 200px auto;
+ 	/*溢出部分隐藏*/
+ 	overflow: hidden;
+ }
+ .box img{
+ 	width: 640px;
+ 	height: 360px;
+ }
+ li{
+ 	list-style: none;
+ 	width: 155px;
+ 	height: 360px;
+ 	float: left;
+ 	border-left: 5px solid white;
+ 	box-shadow: -5px 0px 10px black;
+ 	transition: all 2s linear;
+ }
+ .box ul:hover li{
+ 	width: 35px;
+ }
+ .box ul li:hover{
+ 	width: 635px;
+ }
+ a{
+	 text-decoration: none;
+ }
