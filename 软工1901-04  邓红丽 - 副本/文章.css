@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.box{
+	margin: 0 auto;
+	width: 600px;
+	height:800px;
+	background-image: url("images/文章.jpg");
+	overflow: auto;
+	font-family: "楷体";
+}
+a{
+	text-decoration: none;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-indent: 2em;
+	padding-left: 15px;
+}
+	

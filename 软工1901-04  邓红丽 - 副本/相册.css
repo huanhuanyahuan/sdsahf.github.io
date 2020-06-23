@@ -1,0 +1,31 @@
+.box{
+	margin: 0 auto;
+	width: 520px;
+	height: 900px;
+	font-family: "仿宋";
+}
+.tou{
+	height: 100px;
+	background-color: azure;
+}
+a{
+	text-decoration: none;
+}
+.neirong{
+	height: 800px;
+	background-color: aliceblue;
+	overflow: auto;
+}
+.neirong-1{
+	height: 260px;
+	position: relative;
+}
+.xiangce-1{
+	width: 250px;
+	float: right;
+	top: 250px;
+	left: 250px;
+}
+.dibu{
+	height: 40px;
+}

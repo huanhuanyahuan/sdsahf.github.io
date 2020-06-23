@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.box{
+	margin: 0 auto;
+	width: 600px;
+	font-family: "楷体";
+	background-image: url("images/阳光生活.jpg");
+}
+hr{
+	height: 5px;
+	background-color: #9FF;
+	border: none;
+	bordertop: 2px;
+}
+h1{
+	font-family: "楷体";
+	font-size: 48px;
+	margin-bottom: 0;
+	color: #FC3;
+}
+marquee{
+	font-weight: bolder;
+	font-size: 24px;	
+	height: 700px;
+}
+a{
+	text-decoration: none;
+}

@@ -1,0 +1,40 @@
+.box{
+	margin: 0 auto;
+	width: 700px;
+	height: 1020px;
+	background-color: lightblue;
+	font-family: "仿宋";
+}
+.left{
+	margin-left: 40px;
+	width: 250px;
+	float: left;
+	padding-right: 60px;
+	text-align: center;
+	}
+}
+.right{
+	width: 450px;
+	height: 1100px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.right h2{
+	font-size: 48px;
+}
+.tupian{
+	height: 180px;
+	width: 250px;
+	padding-top: 40px;
+	padding-left: 80px;
+}
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+a{
+	text-decoration: none;
+}
